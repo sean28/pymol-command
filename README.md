@@ -1,4 +1,4 @@
-# pymol-command
+# Pymol command
 <div style="text-align: justify"> PyMOL is a molecular 3D structure display software, which is suitable for creating high-quality 3D structure images of small molecules or biological macromolecules. The content of this issue is to share the quick reference manual of common commands in the use of PyMOL. If you need the original version, you can browse it on the official website <a href="https://pymolwiki.org/index.php/Main_Page">(pymolwiki)</a>.</div>
 
 
